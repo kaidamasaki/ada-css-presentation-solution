@@ -230,7 +230,7 @@ main {
   }
 }
 
-main article {
+main article, main .summary {
   text-align: justify;
   padding: 20px 20px 0;
   position: relative;
